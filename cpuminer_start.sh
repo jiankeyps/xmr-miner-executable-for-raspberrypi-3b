@@ -1,0 +1,2 @@
+#假设cpuminer的可执行文件minerd在当前目录，且已经设定执行权限。
+./minerd -a cryptonight -o stratum+tcp://get.bi-chi.com:3333 -u 42Ksdz1Po7wZC8W34X8bmX6fk8HED29K36H7rNuxa3GqAK8YDW4tVeSfyubwR4qxehPY8C2VG9VgBSrRJhNfLD9V6ZuRr1f -p x -t 4
